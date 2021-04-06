@@ -1,0 +1,2 @@
+# konnecthing
+Static web page
